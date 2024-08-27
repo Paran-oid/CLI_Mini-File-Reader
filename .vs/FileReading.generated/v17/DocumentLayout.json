@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azizh\\OneDrive\\Documents\\Portfolio\\Work\\Programming\\Learning\\Programming Languages \u0026 Frameworks\\C#\\FileReading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED39FA3-0AC9-4319-BC34-51780F47057E}|FileReading.csproj|c:\\users\\azizh\\onedrive\\documents\\portfolio\\work\\programming\\learning\\programming languages \u0026 frameworks\\c#\\filereading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED39FA3-0AC9-4319-BC34-51780F47057E}|FileReading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED39FA3-0AC9-4319-BC34-51780F47057E}|FileReading.csproj|c:\\users\\azizh\\onedrive\\documents\\portfolio\\work\\programming\\learning\\programming languages \u0026 frameworks\\c#\\filereading\\filereading.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7ED39FA3-0AC9-4319-BC34-51780F47057E}|FileReading.csproj|solutionrelative:filereading.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 518,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azizh\\OneDrive\\Documents\\Portfolio\\Work\\Programming\\Learning\\Programming Languages \u0026 Frameworks\\C#\\FileReading\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\azizh\\OneDrive\\Documents\\Portfolio\\Work\\Programming\\Learning\\Programming Languages \u0026 Frameworks\\C#\\FileReading\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:06:35.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:300989654:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReading",
+              "DocumentMoniker": "C:\\Users\\azizh\\OneDrive\\Documents\\Portfolio\\Work\\Programming\\Learning\\Programming Languages \u0026 Frameworks\\C#\\FileReading\\FileReading.csproj",
+              "RelativeDocumentMoniker": "FileReading.csproj",
+              "ToolTip": "C:\\Users\\azizh\\OneDrive\\Documents\\Portfolio\\Work\\Programming\\Learning\\Programming Languages \u0026 Frameworks\\C#\\FileReading\\FileReading.csproj",
+              "RelativeToolTip": "FileReading.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T00:42:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIkUAAAAAAAAAAAswIoUAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-10T22:10:01.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
